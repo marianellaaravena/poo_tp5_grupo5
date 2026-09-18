@@ -1,4 +1,4 @@
-package ar.edu.unju.fi.poo.model;
+package ar.edu.unju.fi.practico5.model;
 
 public class Usuario {
     private String id;

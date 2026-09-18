@@ -1,4 +1,4 @@
-package ar.edu.unju.fi.poo.model;
+package ar.edu.unju.fi.practico5.model;
 
 public class Producto {
     private String codigo;

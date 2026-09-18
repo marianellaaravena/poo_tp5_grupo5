@@ -1,9 +1,9 @@
-package ar.edu.unju.fi.poo.main;
+package ar.edu.unju.fi.practico5.main;
 
-import ar.edu.unju.fi.poo.manager.ManagerProducto;
-import ar.edu.unju.fi.poo.model.CarritoDeCompras;
-import ar.edu.unju.fi.poo.model.Producto;
-import ar.edu.unju.fi.poo.model.Usuario;
+import ar.edu.unju.fi.practico5.ManagerProducto;
+import ar.edu.unju.fi.practico5.model.CarritoDeCompras;
+import ar.edu.unju.fi.practico5.model.Producto;
+import ar.edu.unju.fi.practico5.model.Usuario;
 
 public class MainEcommerce {
     public static void main(String[] args) {
